@@ -6,16 +6,14 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-
-<a href="https://github.com/Luckwut">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckwut&layout=donut-vertical&hide_border=true&theme=chartreuse-dark" />
-</a>
-
 ___
 
 <div align="center">
   <a href="https://github.com/Luckwut">
     <img src="https://github-readme-stats.vercel.app/api?username=Luckwut&&show_icons=true&icon_color=873dff&hide_title=true&hide_border=true&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/Luckwut">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckwut&layout=compact&hide_border=true&theme=chartreuse-dark" />
   </a>
 </div>
 
